@@ -4,7 +4,6 @@
 🌱 Passionate about software development, cybersecurity, and open-source contributions  
 💼 Aspiring to work with innovative tech companies and contribute to impactful projects  
 📫 Reach me at: [kdevpv2003@gmail.com](mailto:kdevpv2003@gmail.com)  
-🌐 Visit my portfolio: [krishnadevpv.github.io](https://krishnadevpv.github.io)
 
 ---
 
@@ -38,6 +37,5 @@ A JavaScript-based application aimed at managing local disaster hazards by provi
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/krishnadevpv)
-- [Portfolio](https://krishnadevpv.github.io)
 
 Feel free to reach out for collaboration, project discussions, or just a friendly chat!
