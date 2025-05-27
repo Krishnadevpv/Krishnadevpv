@@ -28,11 +28,11 @@ A JavaScript-based application aimed at managing local disaster hazards by provi
 
 ---
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats
 
 ![Krishnadevpv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishnadevpv&show_icons=true&theme=radical)
 
----
+--->
 
 ## 📫 Let's Connect
 
