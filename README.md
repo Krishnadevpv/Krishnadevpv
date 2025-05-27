@@ -3,7 +3,7 @@
 🎓 B.Tech student from Kerala, India  
 🌱 Passionate about software development, cybersecurity, and open-source contributions  
 💼 Aspiring to work with innovative tech companies and contribute to impactful projects  
-📫 Reach me at: [krishnadevpv@example.com](mailto:kdevpv2003@gmail.com)  
+📫 Reach me at: [kdevpv2003@gmail.com](mailto:kdevpv2003@gmail.com)  
 🌐 Visit my portfolio: [krishnadevpv.github.io](https://krishnadevpv.github.io)
 
 ---
