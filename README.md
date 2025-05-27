@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hello, I'm Krishnadev P V
 
-<!--
-**Krishnadevpv/Krishnadevpv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech student from Kerala, India  
+🌱 Passionate about software development, cybersecurity, and open-source contributions  
+💼 Aspiring to work with innovative tech companies and contribute to impactful projects  
+📫 Reach me at: [krishnadevpv@example.com](mailto:kdevpv2003@gmail.com)  
+🌐 Visit my portfolio: [krishnadevpv.github.io](https://krishnadevpv.github.io)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### [AgriGuard](https://github.com/Krishnadevpv/AgriGuard)
+A Jupyter Notebook project focused on agricultural data analysis to assist farmers in making informed decisions.
+
+### [Postgres Mini Project](https://github.com/Krishnadevpv/postgress-mini-project)
+An enhancement of the PostgreSQL COPY command, written in C, to improve data import/export efficiency.
+
+### [Local Disaster Hazard Management](https://github.com/Krishnadevpv/Local-Disaster-Hazard-Management)
+A JavaScript-based application aimed at managing local disaster hazards by providing real-time alerts and resources.
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** C, JavaScript, Python, C++
+- **Databases:** PostgreSQL,ORACLEDB
+- **Tools & Platforms:** Git, GitHub, Jupyter Notebook
+
+---
+
+## 📈 GitHub Stats
+
+![Krishnadevpv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishnadevpv&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/krishnadevpv)
+- [Portfolio](https://krishnadevpv.github.io)
+
+Feel free to reach out for collaboration, project discussions, or just a friendly chat!
